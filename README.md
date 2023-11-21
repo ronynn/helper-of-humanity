@@ -10,3 +10,4 @@ Game-Off 2023 TIC-80 GUI based parser game.
 <p>What I have learned over the years is to work from where you are, bring useful changes to your surroundings, have a more disciplined lifestyle. But for the purpose of a fun game that players and other gamedev's might enjoy for 15 to 30 minutes, I wanted to parody my own ideas.</p>
 <hr>
 <p><em>Inspired by my own neighbourhood where I grew up, I present to you Humanity's Helper.</em></p>
+
